@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloJava</string>
+    <string name="home_greeting">Bem-vindo!</string>
+    <string name="home_click_me">Login</string>
+    <string name="home_image_description">Uma imagem da logo do Android.</string>
+    <string name="home_first_text">Criado por: Yuri</string>
+
+    <string name="home_form_name_label">Nome</string>
+    <string name="home_form_name_input">Insira seu nome</string>
+    <string name="home_form_password_label">Senha</string>
+    <string name="home_form_password_input">Insira sua senha</string>
+</resources>
